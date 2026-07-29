@@ -1,0 +1,9 @@
+[17:46:07 2026-07-28] FETCHING Version 2.44.0
+[17:46:07 2026-07-28] CREATING /home/cohorte5/.spicetify
+[17:46:07 2026-07-28] DOWNLOADING https://github.com/spicetify/cli/releases/download/v2.44.0/spicetify-2.44.0-linux-amd64.tar.gz
+[17:46:08 2026-07-28] EXTRACTING /home/cohorte5/.spicetify/spicetify.tar.gz
+[17:46:08 2026-07-28] SETTING EXECUTABLE PERMISSIONS TO /home/cohorte5/.spicetify/spicetify
+[17:46:08 2026-07-28] REMOVING /home/cohorte5/.spicetify/spicetify.tar.gz
+[17:46:08 2026-07-28] APPENDING /home/cohorte5/.spicetify to PATH in /home/cohorte5/.bashrc
+[17:46:08 2026-07-28] spicetify v2.44.0 was installed successfully to /home/cohorte5/.spicetify
+[17:46:08 2026-07-28] Run 'spicetify --help' to get started
