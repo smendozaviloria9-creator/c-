@@ -1,0 +1,14 @@
+/home/cohorte5/actividad 2/actividad2/obj/Debug/net10.0/actividad2.GeneratedMSBuildEditorConfig.editorconfig
+/home/cohorte5/actividad 2/actividad2/obj/Debug/net10.0/actividad2.AssemblyInfoInputs.cache
+/home/cohorte5/actividad 2/actividad2/obj/Debug/net10.0/actividad2.AssemblyInfo.cs
+/home/cohorte5/actividad 2/actividad2/obj/Debug/net10.0/actividad2.csproj.CoreCompileInputs.cache
+/home/cohorte5/actividad 2/actividad2/bin/Debug/net10.0/actividad2
+/home/cohorte5/actividad 2/actividad2/bin/Debug/net10.0/actividad2.deps.json
+/home/cohorte5/actividad 2/actividad2/bin/Debug/net10.0/actividad2.runtimeconfig.json
+/home/cohorte5/actividad 2/actividad2/bin/Debug/net10.0/actividad2.dll
+/home/cohorte5/actividad 2/actividad2/bin/Debug/net10.0/actividad2.pdb
+/home/cohorte5/actividad 2/actividad2/obj/Debug/net10.0/actividad2.dll
+/home/cohorte5/actividad 2/actividad2/obj/Debug/net10.0/refint/actividad2.dll
+/home/cohorte5/actividad 2/actividad2/obj/Debug/net10.0/actividad2.pdb
+/home/cohorte5/actividad 2/actividad2/obj/Debug/net10.0/actividad2.genruntimeconfig.cache
+/home/cohorte5/actividad 2/actividad2/obj/Debug/net10.0/ref/actividad2.dll
